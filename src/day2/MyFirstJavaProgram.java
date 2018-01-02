@@ -12,7 +12,7 @@ public class MyFirstJavaProgram {
 		Robot tim = new Robot();
 		tim.penDown();
 		tim.move(200);
-		tim.setAngle(a);
+		tim.setAngle(180);
 		
 		
 	}
