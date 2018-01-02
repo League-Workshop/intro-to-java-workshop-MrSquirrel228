@@ -8,7 +8,11 @@ public class MyFirstJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
-	
+	System.out.println("Hello World");
+		Robot tim = new Robot();
+		tim.penDown();
+		tim.move(200);
+		tim.setAngle(a);
 		
 		
 	}
