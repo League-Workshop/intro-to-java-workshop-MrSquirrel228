@@ -9,7 +9,7 @@ public class QuizGame {
 		// 2.  Ask the user a question 
 		
 		// 3.  Use an if statement to check if their answer is correct
-		
+		if
 		// 4.  if the user's answer is correct
 		
 		// -- add one to their score 
