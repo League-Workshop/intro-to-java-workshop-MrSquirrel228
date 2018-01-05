@@ -31,6 +31,13 @@ if(random==2)
 	// -- tell the user whatever they entered is boring.
 JOptionPane.showMessageDialog(null,name+" is really booooooooring.");
 
+
+
+
+
+
+
+random
 	// 8. If the random number is 3
 if(random==3)
 	// -- write your own answer

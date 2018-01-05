@@ -30,7 +30,10 @@ public class FourSquare {
 		// 3. draw a square
 		tim.turn(90);
 
-}
+		
+	}	
+
 
 /* 3. Fill in the code to draw a square inside the method below. */
-public static void main(String[] args);
+
+	}
